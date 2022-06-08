@@ -1,3 +1,4 @@
+#adarkatzir 209502293
 import math
 def secant(f,a,b,N):
     if f(a)*f(b) >= 0:
